@@ -10,3 +10,6 @@ Elegí usar la clase "Semaphore" porque permite gestionar cuantos coches van a e
 A diferencia de "synchronized" o "ReentranLock", que solo permite el acceso a un hilo, "Semaphore" puede manejar varios hilos al mismo tiempo, no solo uno.  
 Con "wait()/notify()" tendríamos que hacer manualmente el contador de plazas y la lógica para mostrar los mensajes, lo cual es más propenso a errores.  
 Por eso, "Semaphore" es más eficiente y seguro para este tipo de proyectos.
+
+# Resultados por consola
+<img width="341" height="392" alt="image" src="https://github.com/user-attachments/assets/02324271-ba1a-49b8-914a-8808ba62b191" />
