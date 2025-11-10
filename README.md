@@ -1,4 +1,4 @@
-¿Porque elegiste Semaphore?
+## ¿Porque elegiste Semaphore?
 
 # Descripción del proyecto
 Este proyecto simula un aparcamiento con plazas limitadas usando hilos (Thread) en Java.  
